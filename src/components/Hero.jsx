@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Hero = (props) => {
+const Hero = () => {
     let heroText = 'Become a React Dev'
     let heroSubText = 'Find the React job that fits your skills and needs' 
   return (
